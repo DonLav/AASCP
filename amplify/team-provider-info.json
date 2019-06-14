@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "scpamp-dev-20190614153330-authRole",
+            "UnauthRoleArn": "arn:aws:iam::070277303818:role/scpamp-dev-20190614153330-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::070277303818:role/scpamp-dev-20190614153330-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "scpamp-dev-20190614153330-deployment",
+            "UnauthRoleName": "scpamp-dev-20190614153330-unauthRole",
+            "StackName": "scpamp-dev-20190614153330",
+            "StackId": "arn:aws:cloudformation:eu-central-1:070277303818:stack/scpamp-dev-20190614153330/61fce4f0-8eb1-11e9-b556-02998deedf64"
+        }
+    }
+}
